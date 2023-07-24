@@ -8,8 +8,5 @@ I'm currently learning specialized courses in Computer Vision
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HieunnUTE&theme=dracula&hide_border=false)<br/>
 
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=HieunnUTE&icon=0&color=0)](https://visitcount.itsvg.in)
